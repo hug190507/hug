@@ -1,0 +1,7 @@
+User-agent: * 
+Disallow: /test/
+Disallow: /otoku/
+Disallow: /om_local/
+Disallow: /resortwedding_local/
+Disallow: /djren/
+Disallow: /allows/
